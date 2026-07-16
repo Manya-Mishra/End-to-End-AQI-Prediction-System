@@ -99,7 +99,6 @@ Target Variable:
 Implemented and compared multiple machine learning algorithms:
 
 * Linear Regression
-* Random Forest Regressor
 * XGBoost Regressor
 
 ### 6. Model Evaluation
@@ -232,6 +231,6 @@ streamlit run app.py
 
 **Manya Mishra**
 
-Aspiring Data Analyst | Machine Learning Enthusiast | Python Developer
+Aspiring Data Analyst / Scientist || Machine Learning Enthusiast | Python | MySQL | Analysis | Model building & deployment
 
 This project demonstrates an end-to-end machine learning workflow, from raw environmental data analysis to deployment of a production-ready prediction dashboard.
